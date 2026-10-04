@@ -1,0 +1,9 @@
+# 仓库内统一 LF，避免跨平台行尾噪音
+* text=auto eol=lf
+
+# 二进制资源不做行尾转换
+*.png binary
+*.jpg binary
+*.z binary
+*.wav binary
+*.mp4 binary
