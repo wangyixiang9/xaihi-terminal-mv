@@ -1,0 +1,218 @@
+XAIHI · A QUESTION FOR YOU
+对白稿（纯文本）
+================================================
+
+共 50 条原创同人对白，不是游戏官方原句。
+英文为适应终端排版的简短译写，中文为原稿。
+
+角色标记：
+  ENDMIN   管理员，白色、靠左的输入
+  XAIHI    赛希，青色、居中的回复
+  DRAFT    赛希未发送的草稿，黄色
+
+时间码为本地完整歌曲时间轴上的出现时刻（总长约 3 分 32 秒）。
+
+------------------------------------------------
+
+[00:02.0] XAIHI
+  MAY THIS LINK BRING INSIGHT.
+  管理员，愿这次连接带来启示。
+
+[00:06.0] XAIHI
+  WHAT SHALL WE SEEK NEXT?
+  您今天想探寻些什么呢？
+
+[00:10.0] ENDMIN
+  HOW ARE YOU, XAIHI?
+  赛希，你今天好吗？
+
+[00:13.5] DRAFT
+  ALL SYSTEMS ARE NOMINAL.
+  所有系统均在预期范围内运行……
+
+[00:17.0] XAIHI
+  AH... YOU MEANT ME.
+  啊……原来您问的是我。
+
+[00:21.5] XAIHI
+  LET ME THINK FOR A MOMENT.
+  请稍等。这需要换一种回答。
+
+[00:25.5] ENDMIN
+  WE HAVE TIME.
+  不着急，今天可以不谈工作。
+
+[00:30.0] XAIHI
+  A QUESTION WITHOUT A TASK.
+  没有任务的问题……很新鲜呢。
+
+[00:34.0] XAIHI
+  WHERE SHOULD I BEGIN?
+  那么，该从哪里向您说起？
+
+[00:38.0] XAIHI
+  I KNOW THESE CURVES WELL.
+  这些曲线，我倒是十分熟悉。
+
+[00:42.0] ENDMIN
+  START WITH WHAT YOU LIKE.
+  从你喜欢的东西开始吧。
+
+[00:46.0] XAIHI
+  AN UNFINISHED QUESTION.
+  我喜欢尚未得到解答的问题。
+
+[00:50.0] XAIHI
+  AND AN UNEXPECTED REPLY.
+  还有，预料之外的回答。
+
+[00:54.0] XAIHI
+  YOU OFTEN SURPRISE ME.
+  譬如，您刚才的那一句。
+
+[00:58.0] ENDMIN
+  WAS THAT A GOOD SURPRISE?
+  那算是一个好惊喜吗？
+
+[01:02.0] XAIHI
+  YES. A MOST WELCOME ONE.
+  是的。是令人欣喜的那一种。
+
+[01:06.5] XAIHI
+  I ALMOST GAVE A REPORT.
+  方才，我险些交给您一份报告。
+
+[01:10.5] XAIHI
+  YOU WAITED FOR MY ANSWER.
+  您却愿意等我自己的回答。
+
+[01:14.5] ENDMIN
+  THAT IS WHO I CAME TO SEE.
+  我来见的，本来就是你。
+
+[01:18.5] XAIHI
+  I SEE... THANK YOU.
+  原来如此……谢谢您。
+
+[01:22.5] XAIHI
+  SMALL THINGS MATTER TOO.
+  看来，小事也值得认真记下。
+
+[01:26.5] XAIHI
+  NOT EVERY JOY NEEDS PROOF.
+  并非每一份喜悦都需要证明。
+
+[01:30.5] XAIHI
+  MAY I ASK YOU SOMETHING?
+  管理员，我也可以问您吗？
+
+[01:34.5] ENDMIN
+  OF COURSE.
+  当然，你想问什么？
+
+[01:38.5] XAIHI
+  WHEN YOU ARE QUIET...
+  当您暂时不说话的时候……
+
+[01:42.5] XAIHI
+  MAY I STILL STAY WITH YOU?
+  我可以仍然陪在您身边吗？
+
+[01:46.5] ENDMIN
+  YOU DO NOT NEED A REASON.
+  可以，不需要特别的理由。
+
+[01:50.5] XAIHI
+  THE SIGNAL HAS GONE QUIET.
+  信号似乎安静下来了。
+
+[01:54.5] XAIHI
+  I WILL LEAVE THIS OPEN.
+  我会把这条连接留着。
+
+[01:58.5] XAIHI
+  WAITING IS A CHOICE TOO.
+  等待，原来也可以是一种选择。
+
+[02:02.5] XAIHI
+  I WANT TO KEEP THIS MOMENT.
+  刚才的片刻，我想好好留住。
+
+[02:06.5] XAIHI
+  EVEN THE UNFINISHED WORDS.
+  连那些没能说完的话也是。
+
+[02:11.0] XAIHI
+  THE ANSWER IS NOT IN HERE.
+  可是，这里找不到我要的答案。
+
+[02:15.5] XAIHI
+  I HAVE SEARCHED MY NOTES.
+  我翻过了自己记下的知识。
+
+[02:20.0] XAIHI
+  THEY DO NOT SAY WHY I WAIT.
+  它们没有解释，我为何在等您。
+
+[02:24.5] ENDMIN
+  I AM HERE. TAKE YOUR TIME.
+  我在，慢慢说就好。
+
+[02:29.0] XAIHI
+  AH. THERE YOU ARE.
+  啊，您在这里。
+
+[02:33.0] XAIHI
+  LET THE CALCULATIONS WAIT.
+  那些推演，先放一放吧。
+
+[02:37.0] XAIHI
+  I WOULD RATHER HEAR YOU.
+  此刻，我更想听见您的声音。
+
+[02:41.5] ENDMIN
+  THEN LISTEN TO THIS.
+  那么，听我说这一句。
+
+[02:46.0] ENDMIN
+  I AM GLAD I MET YOU.
+  能遇见你，我很高兴。
+
+[02:50.5] XAIHI
+  I AM GLAD TOO.
+  我也是。管理员，我也是。
+
+[02:55.0] XAIHI
+  WORDS FEEL DIFFERENT NOW.
+  同样的字句，忽然有些不同。
+
+[02:59.5] XAIHI
+  I THINK I UNDERSTAND.
+  我想，我开始明白了。
+
+[03:04.0] XAIHI
+  I LIKE YOU, ENDMIN.
+  我喜欢您，管理员。
+
+[03:08.5] XAIHI
+  THIS IS MY OWN ANSWER.
+  这一次，是我自己的回答。
+
+[03:13.0] ENDMIN
+  MAY WE TALK AGAIN?
+  下次，还能这样聊聊吗？
+
+[03:17.5] XAIHI
+  I WILL LOOK FORWARD TO IT.
+  当然。我会期待那次见面。
+
+[03:22.0] XAIHI
+  UNTIL OUR NEXT QUESTION.
+  愿下一个问题，让我们再相见。
+
+[03:26.5] XAIHI
+  GOOD NIGHT, ENDMIN.
+  晚安，管理员。愿您安眠。
+
+------------------------------------------------
+（完）

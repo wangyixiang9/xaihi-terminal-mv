@@ -1,0 +1,42 @@
+{
+  "gesture": {
+    "width": 480,
+    "height": 305,
+    "source": "01a_01a_00001_.png"
+  },
+  "palm": {
+    "width": 480,
+    "height": 305,
+    "source": "02b_02b_00001_.png"
+  },
+  "response": {
+    "width": 480,
+    "height": 305,
+    "source": "03b_03b_00001_.png"
+  },
+  "thought": {
+    "width": 480,
+    "height": 305,
+    "source": "04a_04a_00001_.png"
+  },
+  "reach": {
+    "width": 480,
+    "height": 305,
+    "source": "05b_05b_00001_.png"
+  },
+  "world": {
+    "width": 382,
+    "height": 600,
+    "source": "06vd_06vd_00001_.png"
+  },
+  "eyes": {
+    "width": 480,
+    "height": 305,
+    "source": "E1b_E1b_00001_.png"
+  },
+  "glance": {
+    "width": 480,
+    "height": 305,
+    "source": "E3b_E3b_00001_.png"
+  }
+}

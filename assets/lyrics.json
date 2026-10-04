@@ -1,0 +1,2268 @@
+[
+  {
+    "start": 0.06,
+    "display_end": 1.792,
+    "text": "Switch on the power line",
+    "words": [
+      {
+        "text": "Switch",
+        "start": 0.06
+      },
+      {
+        "text": "on",
+        "start": 0.611
+      },
+      {
+        "text": "the",
+        "start": 0.95
+      },
+      {
+        "text": "power",
+        "start": 1.111
+      },
+      {
+        "text": "line",
+        "start": 1.431
+      }
+    ]
+  },
+  {
+    "start": 1.792,
+    "display_end": 3.863,
+    "text": "Remember to put on protection",
+    "words": [
+      {
+        "text": "Remember",
+        "start": 1.792
+      },
+      {
+        "text": "to",
+        "start": 2.398
+      },
+      {
+        "text": "put",
+        "start": 2.658
+      },
+      {
+        "text": "on",
+        "start": 2.979
+      },
+      {
+        "text": "protection",
+        "start": 3.189
+      }
+    ]
+  },
+  {
+    "start": 3.863,
+    "display_end": 5.418,
+    "text": "Lay down your pieces",
+    "words": [
+      {
+        "text": "Lay",
+        "start": 3.863
+      },
+      {
+        "text": "down",
+        "start": 4.204
+      },
+      {
+        "text": "your",
+        "start": 4.586
+      },
+      {
+        "text": "pieces",
+        "start": 4.784
+      }
+    ]
+  },
+  {
+    "start": 5.418,
+    "display_end": 7.38,
+    "text": "And let's begin object creation",
+    "words": [
+      {
+        "text": "And",
+        "start": 5.418
+      },
+      {
+        "text": "let's",
+        "start": 5.687
+      },
+      {
+        "text": "begin",
+        "start": 5.968
+      },
+      {
+        "text": "object",
+        "start": 6.369
+      },
+      {
+        "text": "creation",
+        "start": 6.759
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "display_end": 10.134,
+    "text": "Fill in my data parameters",
+    "words": [
+      {
+        "text": "Fill",
+        "start": 7.38
+      },
+      {
+        "text": "in",
+        "start": 7.939
+      },
+      {
+        "text": "my",
+        "start": 8.296
+      },
+      {
+        "text": "data",
+        "start": 8.482
+      },
+      {
+        "text": "parameters",
+        "start": 9.076
+      }
+    ]
+  },
+  {
+    "start": 10.134,
+    "display_end": 11.205,
+    "text": "Initialization",
+    "words": [
+      {
+        "text": "Initialization",
+        "start": 10.134
+      }
+    ]
+  },
+  {
+    "start": 11.205,
+    "display_end": 12.756,
+    "text": "Set up our new world",
+    "words": [
+      {
+        "text": "Set",
+        "start": 11.205
+      },
+      {
+        "text": "up",
+        "start": 11.625
+      },
+      {
+        "text": "our",
+        "start": 12.048
+      },
+      {
+        "text": "new",
+        "start": 12.196
+      },
+      {
+        "text": "world",
+        "start": 12.468
+      }
+    ]
+  },
+  {
+    "start": 12.756,
+    "display_end": 15.319,
+    "text": "And let's begin the simulation",
+    "words": [
+      {
+        "text": "And",
+        "start": 12.756
+      },
+      {
+        "text": "let's",
+        "start": 13.066
+      },
+      {
+        "text": "begin",
+        "start": 13.357
+      },
+      {
+        "text": "the",
+        "start": 13.727
+      },
+      {
+        "text": "simulation",
+        "start": 14.017
+      }
+    ]
+  },
+  {
+    "start": 29.772,
+    "display_end": 31.293,
+    "text": "If I'm a set of point",
+    "words": [
+      {
+        "text": "If",
+        "start": 29.772
+      },
+      {
+        "text": "I'm",
+        "start": 30.21
+      },
+      {
+        "text": "a",
+        "start": 30.59
+      },
+      {
+        "text": "set",
+        "start": 30.602
+      },
+      {
+        "text": "of",
+        "start": 30.791
+      },
+      {
+        "text": "point",
+        "start": 30.979
+      }
+    ]
+  },
+  {
+    "start": 31.293,
+    "display_end": 33.453,
+    "text": "Then I will give you my dimension",
+    "words": [
+      {
+        "text": "Then",
+        "start": 31.293
+      },
+      {
+        "text": "I",
+        "start": 31.512
+      },
+      {
+        "text": "will",
+        "start": 31.785
+      },
+      {
+        "text": "give",
+        "start": 31.975
+      },
+      {
+        "text": "you",
+        "start": 32.265
+      },
+      {
+        "text": "my",
+        "start": 32.472
+      },
+      {
+        "text": "dimension",
+        "start": 32.709
+      }
+    ]
+  },
+  {
+    "start": 33.453,
+    "display_end": 34.989,
+    "text": "If I'm a circle",
+    "words": [
+      {
+        "text": "If",
+        "start": 33.453
+      },
+      {
+        "text": "I'm",
+        "start": 33.907
+      },
+      {
+        "text": "a",
+        "start": 34.272
+      },
+      {
+        "text": "circle",
+        "start": 34.314
+      }
+    ]
+  },
+  {
+    "start": 34.989,
+    "display_end": 37.102,
+    "text": "Then I will give you my circumference",
+    "words": [
+      {
+        "text": "Then",
+        "start": 34.989
+      },
+      {
+        "text": "I",
+        "start": 35.201
+      },
+      {
+        "text": "will",
+        "start": 35.478
+      },
+      {
+        "text": "give",
+        "start": 35.678
+      },
+      {
+        "text": "you",
+        "start": 35.963
+      },
+      {
+        "text": "my",
+        "start": 36.169
+      },
+      {
+        "text": "circumference",
+        "start": 36.415
+      }
+    ]
+  },
+  {
+    "start": 37.102,
+    "display_end": 38.685,
+    "text": "If I'm a sine wave",
+    "words": [
+      {
+        "text": "If",
+        "start": 37.102
+      },
+      {
+        "text": "I'm",
+        "start": 37.571
+      },
+      {
+        "text": "a",
+        "start": 37.921
+      },
+      {
+        "text": "sine",
+        "start": 38.012
+      },
+      {
+        "text": "wave",
+        "start": 38.373
+      }
+    ]
+  },
+  {
+    "start": 38.685,
+    "display_end": 40.817,
+    "text": "Then you can sit on all my tangents",
+    "words": [
+      {
+        "text": "Then",
+        "start": 38.685
+      },
+      {
+        "text": "you",
+        "start": 38.932
+      },
+      {
+        "text": "can",
+        "start": 39.133
+      },
+      {
+        "text": "sit",
+        "start": 39.373
+      },
+      {
+        "text": "on",
+        "start": 39.68
+      },
+      {
+        "text": "all",
+        "start": 39.925
+      },
+      {
+        "text": "my",
+        "start": 40.115
+      },
+      {
+        "text": "tangents",
+        "start": 40.355
+      }
+    ]
+  },
+  {
+    "start": 40.817,
+    "display_end": 42.256,
+    "text": "If I approach infinity",
+    "words": [
+      {
+        "text": "If",
+        "start": 40.817
+      },
+      {
+        "text": "I",
+        "start": 41.002
+      },
+      {
+        "text": "approach",
+        "start": 41.212
+      },
+      {
+        "text": "infinity",
+        "start": 41.517
+      }
+    ]
+  },
+  {
+    "start": 42.256,
+    "display_end": 44.412,
+    "text": "Then you can be my limitations",
+    "words": [
+      {
+        "text": "Then",
+        "start": 42.256
+      },
+      {
+        "text": "you",
+        "start": 42.616
+      },
+      {
+        "text": "can",
+        "start": 42.819
+      },
+      {
+        "text": "be",
+        "start": 43.07
+      },
+      {
+        "text": "my",
+        "start": 43.303
+      },
+      {
+        "text": "limitations",
+        "start": 43.564
+      }
+    ]
+  },
+  {
+    "start": 44.412,
+    "display_end": 45.763,
+    "text": "Switch my current",
+    "words": [
+      {
+        "text": "Switch",
+        "start": 44.412
+      },
+      {
+        "text": "my",
+        "start": 44.898
+      },
+      {
+        "text": "current",
+        "start": 45.319
+      }
+    ]
+  },
+  {
+    "start": 45.763,
+    "display_end": 47.706,
+    "text": "To AC, to DC",
+    "words": [
+      {
+        "text": "To",
+        "start": 45.763
+      },
+      {
+        "text": "AC,",
+        "start": 46.353
+      },
+      {
+        "text": "to",
+        "start": 46.974
+      },
+      {
+        "text": "DC",
+        "start": 47.207
+      }
+    ]
+  },
+  {
+    "start": 47.706,
+    "display_end": 49.684,
+    "text": "And then blind my vision",
+    "words": [
+      {
+        "text": "And",
+        "start": 47.706
+      },
+      {
+        "text": "then",
+        "start": 47.947
+      },
+      {
+        "text": "blind",
+        "start": 48.19
+      },
+      {
+        "text": "my",
+        "start": 48.547
+      },
+      {
+        "text": "vision",
+        "start": 49.02
+      }
+    ]
+  },
+  {
+    "start": 49.684,
+    "display_end": 51.447,
+    "text": "So dizzy, so dizzy",
+    "words": [
+      {
+        "text": "So",
+        "start": 49.684
+      },
+      {
+        "text": "dizzy,",
+        "start": 49.995
+      },
+      {
+        "text": "so",
+        "start": 50.726
+      },
+      {
+        "text": "dizzy",
+        "start": 50.916
+      }
+    ]
+  },
+  {
+    "start": 51.447,
+    "display_end": 53.372,
+    "text": "Oh, we can travel",
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 51.447
+      },
+      {
+        "text": "we",
+        "start": 51.772
+      },
+      {
+        "text": "can",
+        "start": 52.172
+      },
+      {
+        "text": "travel",
+        "start": 52.651
+      }
+    ]
+  },
+  {
+    "start": 53.372,
+    "display_end": 55.084,
+    "text": "To AD, to BC",
+    "words": [
+      {
+        "text": "To",
+        "start": 53.372
+      },
+      {
+        "text": "AD,",
+        "start": 53.737
+      },
+      {
+        "text": "to",
+        "start": 54.408
+      },
+      {
+        "text": "BC",
+        "start": 54.594
+      }
+    ]
+  },
+  {
+    "start": 55.084,
+    "display_end": 57.114,
+    "text": "And we can unite",
+    "words": [
+      {
+        "text": "And",
+        "start": 55.084
+      },
+      {
+        "text": "we",
+        "start": 55.453
+      },
+      {
+        "text": "can",
+        "start": 55.913
+      },
+      {
+        "text": "unite",
+        "start": 56.404
+      }
+    ]
+  },
+  {
+    "start": 57.114,
+    "display_end": 59.056,
+    "text": "So deeply, so deeply",
+    "words": [
+      {
+        "text": "So",
+        "start": 57.114
+      },
+      {
+        "text": "deeply,",
+        "start": 57.39
+      },
+      {
+        "text": "so",
+        "start": 58.117
+      },
+      {
+        "text": "deeply",
+        "start": 58.32
+      }
+    ]
+  },
+  {
+    "start": 59.056,
+    "display_end": 60.986,
+    "text": "If I can, if I can",
+    "words": [
+      {
+        "text": "If",
+        "start": 59.056
+      },
+      {
+        "text": "I",
+        "start": 59.511
+      },
+      {
+        "text": "can,",
+        "start": 59.886
+      },
+      {
+        "text": "if",
+        "start": 60.257
+      },
+      {
+        "text": "I",
+        "start": 60.471
+      },
+      {
+        "text": "can",
+        "start": 60.605
+      }
+    ]
+  },
+  {
+    "start": 60.986,
+    "display_end": 63.053,
+    "text": "Give you all the simulations",
+    "words": [
+      {
+        "text": "Give",
+        "start": 60.986
+      },
+      {
+        "text": "you",
+        "start": 61.316
+      },
+      {
+        "text": "all",
+        "start": 61.616
+      },
+      {
+        "text": "the",
+        "start": 61.806
+      },
+      {
+        "text": "simulations",
+        "start": 61.968
+      }
+    ]
+  },
+  {
+    "start": 63.053,
+    "display_end": 64.639,
+    "text": "Then I can, then I can",
+    "words": [
+      {
+        "text": "Then",
+        "start": 63.053
+      },
+      {
+        "text": "I",
+        "start": 63.063
+      },
+      {
+        "text": "can,",
+        "start": 63.584
+      },
+      {
+        "text": "then",
+        "start": 63.841
+      },
+      {
+        "text": "I",
+        "start": 64.281
+      },
+      {
+        "text": "can",
+        "start": 64.549
+      }
+    ]
+  },
+  {
+    "start": 64.639,
+    "display_end": 66.286,
+    "text": "Be your only satisfaction",
+    "words": [
+      {
+        "text": "Be",
+        "start": 64.639
+      },
+      {
+        "text": "your",
+        "start": 64.999
+      },
+      {
+        "text": "only",
+        "start": 65.345
+      },
+      {
+        "text": "satisfaction",
+        "start": 65.677
+      }
+    ]
+  },
+  {
+    "start": 66.286,
+    "display_end": 68.201,
+    "text": "If I can make you happy",
+    "words": [
+      {
+        "text": "If",
+        "start": 66.286
+      },
+      {
+        "text": "I",
+        "start": 67.101
+      },
+      {
+        "text": "can",
+        "start": 67.111
+      },
+      {
+        "text": "make",
+        "start": 67.532
+      },
+      {
+        "text": "you",
+        "start": 67.833
+      },
+      {
+        "text": "happy",
+        "start": 67.983
+      }
+    ]
+  },
+  {
+    "start": 68.201,
+    "display_end": 70.123,
+    "text": "I will run the execution",
+    "words": [
+      {
+        "text": "I",
+        "start": 68.201
+      },
+      {
+        "text": "will",
+        "start": 68.552
+      },
+      {
+        "text": "run",
+        "start": 68.907
+      },
+      {
+        "text": "the",
+        "start": 69.138
+      },
+      {
+        "text": "execution",
+        "start": 69.409
+      }
+    ]
+  },
+  {
+    "start": 70.123,
+    "display_end": 71.588,
+    "text": "Though we are trapped",
+    "words": [
+      {
+        "text": "Though",
+        "start": 70.123
+      },
+      {
+        "text": "we",
+        "start": 70.724
+      },
+      {
+        "text": "are",
+        "start": 71.054
+      },
+      {
+        "text": "trapped",
+        "start": 71.254
+      }
+    ]
+  },
+  {
+    "start": 71.588,
+    "display_end": 73.926,
+    "text": "In this strange, strange simulation",
+    "words": [
+      {
+        "text": "In",
+        "start": 71.588
+      },
+      {
+        "text": "this",
+        "start": 71.938
+      },
+      {
+        "text": "strange,",
+        "start": 72.178
+      },
+      {
+        "text": "strange",
+        "start": 72.648
+      },
+      {
+        "text": "simulation",
+        "start": 73.038
+      }
+    ]
+  },
+  {
+    "start": 73.926,
+    "display_end": 75.596,
+    "text": "If I'm an eggplant",
+    "words": [
+      {
+        "text": "If",
+        "start": 73.926
+      },
+      {
+        "text": "I'm",
+        "start": 74.507
+      },
+      {
+        "text": "an",
+        "start": 74.881
+      },
+      {
+        "text": "eggplant",
+        "start": 75.071
+      }
+    ]
+  },
+  {
+    "start": 75.596,
+    "display_end": 77.709,
+    "text": "Then I will give you my nutrients",
+    "words": [
+      {
+        "text": "Then",
+        "start": 75.596
+      },
+      {
+        "text": "I",
+        "start": 75.86
+      },
+      {
+        "text": "will",
+        "start": 76.115
+      },
+      {
+        "text": "give",
+        "start": 76.278
+      },
+      {
+        "text": "you",
+        "start": 76.562
+      },
+      {
+        "text": "my",
+        "start": 76.775
+      },
+      {
+        "text": "nutrients",
+        "start": 77.039
+      }
+    ]
+  },
+  {
+    "start": 77.709,
+    "display_end": 79.243,
+    "text": "If I'm a tomato",
+    "words": [
+      {
+        "text": "If",
+        "start": 77.709
+      },
+      {
+        "text": "I'm",
+        "start": 78.189
+      },
+      {
+        "text": "a",
+        "start": 78.591
+      },
+      {
+        "text": "tomato",
+        "start": 78.629
+      }
+    ]
+  },
+  {
+    "start": 79.243,
+    "display_end": 81.276,
+    "text": "Then I will give you antioxidants",
+    "words": [
+      {
+        "text": "Then",
+        "start": 79.243
+      },
+      {
+        "text": "I",
+        "start": 79.551
+      },
+      {
+        "text": "will",
+        "start": 79.792
+      },
+      {
+        "text": "give",
+        "start": 79.992
+      },
+      {
+        "text": "you",
+        "start": 80.272
+      },
+      {
+        "text": "antioxidants",
+        "start": 80.532
+      }
+    ]
+  },
+  {
+    "start": 81.276,
+    "display_end": 82.958,
+    "text": "If I'm a tabby cat",
+    "words": [
+      {
+        "text": "If",
+        "start": 81.276
+      },
+      {
+        "text": "I'm",
+        "start": 81.852
+      },
+      {
+        "text": "a",
+        "start": 82.27
+      },
+      {
+        "text": "tabby",
+        "start": 82.363
+      },
+      {
+        "text": "cat",
+        "start": 82.652
+      }
+    ]
+  },
+  {
+    "start": 82.958,
+    "display_end": 85.132,
+    "text": "Then I will purr for your enjoyment",
+    "words": [
+      {
+        "text": "Then",
+        "start": 82.958
+      },
+      {
+        "text": "I",
+        "start": 83.222
+      },
+      {
+        "text": "will",
+        "start": 83.494
+      },
+      {
+        "text": "purr",
+        "start": 83.666
+      },
+      {
+        "text": "for",
+        "start": 83.925
+      },
+      {
+        "text": "your",
+        "start": 84.158
+      },
+      {
+        "text": "enjoyment",
+        "start": 84.428
+      }
+    ]
+  },
+  {
+    "start": 85.132,
+    "display_end": 86.653,
+    "text": "If I'm the only God",
+    "words": [
+      {
+        "text": "If",
+        "start": 85.132
+      },
+      {
+        "text": "I'm",
+        "start": 85.564
+      },
+      {
+        "text": "the",
+        "start": 85.919
+      },
+      {
+        "text": "only",
+        "start": 86.044
+      },
+      {
+        "text": "God",
+        "start": 86.331
+      }
+    ]
+  },
+  {
+    "start": 86.653,
+    "display_end": 88.54,
+    "text": "Then you're the proof of my existence",
+    "words": [
+      {
+        "text": "Then",
+        "start": 86.653
+      },
+      {
+        "text": "you're",
+        "start": 86.913
+      },
+      {
+        "text": "the",
+        "start": 87.174
+      },
+      {
+        "text": "proof",
+        "start": 87.323
+      },
+      {
+        "text": "of",
+        "start": 87.654
+      },
+      {
+        "text": "my",
+        "start": 87.884
+      },
+      {
+        "text": "existence",
+        "start": 88.154
+      }
+    ]
+  },
+  {
+    "start": 88.54,
+    "display_end": 90.277,
+    "text": "Switch my gender",
+    "words": [
+      {
+        "text": "Switch",
+        "start": 88.54
+      },
+      {
+        "text": "my",
+        "start": 89.166
+      },
+      {
+        "text": "gender",
+        "start": 89.626
+      }
+    ]
+  },
+  {
+    "start": 90.277,
+    "display_end": 91.888,
+    "text": "To F, to M",
+    "words": [
+      {
+        "text": "To",
+        "start": 90.277
+      },
+      {
+        "text": "F,",
+        "start": 90.681
+      },
+      {
+        "text": "to",
+        "start": 91.329
+      },
+      {
+        "text": "M",
+        "start": 91.541
+      }
+    ]
+  },
+  {
+    "start": 91.888,
+    "display_end": 93.935,
+    "text": "And then do whatever",
+    "words": [
+      {
+        "text": "And",
+        "start": 91.888
+      },
+      {
+        "text": "then",
+        "start": 92.12
+      },
+      {
+        "text": "do",
+        "start": 92.35
+      },
+      {
+        "text": "whatever",
+        "start": 92.83
+      }
+    ]
+  },
+  {
+    "start": 93.935,
+    "display_end": 95.628,
+    "text": "From AM to PM",
+    "words": [
+      {
+        "text": "From",
+        "start": 93.935
+      },
+      {
+        "text": "AM",
+        "start": 94.496
+      },
+      {
+        "text": "to",
+        "start": 94.906
+      },
+      {
+        "text": "PM",
+        "start": 95.226
+      }
+    ]
+  },
+  {
+    "start": 95.628,
+    "display_end": 97.696,
+    "text": "Oh, switch my role",
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 95.628
+      },
+      {
+        "text": "switch",
+        "start": 96.179
+      },
+      {
+        "text": "my",
+        "start": 96.592
+      },
+      {
+        "text": "role",
+        "start": 97.034
+      }
+    ]
+  },
+  {
+    "start": 97.696,
+    "display_end": 99.257,
+    "text": "To S, to M",
+    "words": [
+      {
+        "text": "To",
+        "start": 97.696
+      },
+      {
+        "text": "S,",
+        "start": 98.071
+      },
+      {
+        "text": "to",
+        "start": 98.796
+      },
+      {
+        "text": "M",
+        "start": 98.931
+      }
+    ]
+  },
+  {
+    "start": 99.257,
+    "display_end": 101.281,
+    "text": "So we can enter",
+    "words": [
+      {
+        "text": "So",
+        "start": 99.257
+      },
+      {
+        "text": "we",
+        "start": 99.761
+      },
+      {
+        "text": "can",
+        "start": 100.221
+      },
+      {
+        "text": "enter",
+        "start": 100.772
+      }
+    ]
+  },
+  {
+    "start": 101.281,
+    "display_end": 103.522,
+    "text": "The trance, the trance",
+    "words": [
+      {
+        "text": "The",
+        "start": 101.281
+      },
+      {
+        "text": "trance,",
+        "start": 101.621
+      },
+      {
+        "text": "the",
+        "start": 102.401
+      },
+      {
+        "text": "trance",
+        "start": 102.551
+      }
+    ]
+  },
+  {
+    "start": 103.522,
+    "display_end": 105.292,
+    "text": "If I can, if I can",
+    "words": [
+      {
+        "text": "If",
+        "start": 103.522
+      },
+      {
+        "text": "I",
+        "start": 103.921
+      },
+      {
+        "text": "can,",
+        "start": 104.222
+      },
+      {
+        "text": "if",
+        "start": 104.602
+      },
+      {
+        "text": "I",
+        "start": 104.781
+      },
+      {
+        "text": "can",
+        "start": 105.123
+      }
+    ]
+  },
+  {
+    "start": 105.292,
+    "display_end": 107.142,
+    "text": "Feel your vibrations",
+    "words": [
+      {
+        "text": "Feel",
+        "start": 105.292
+      },
+      {
+        "text": "your",
+        "start": 105.784
+      },
+      {
+        "text": "vibrations",
+        "start": 106.263
+      }
+    ]
+  },
+  {
+    "start": 107.142,
+    "display_end": 108.984,
+    "text": "Then I can, then I can",
+    "words": [
+      {
+        "text": "Then",
+        "start": 107.142
+      },
+      {
+        "text": "I",
+        "start": 107.66
+      },
+      {
+        "text": "can,",
+        "start": 107.903
+      },
+      {
+        "text": "then",
+        "start": 108.233
+      },
+      {
+        "text": "I",
+        "start": 108.58
+      },
+      {
+        "text": "can",
+        "start": 108.845
+      }
+    ]
+  },
+  {
+    "start": 108.984,
+    "display_end": 110.405,
+    "text": "Finally be completion",
+    "words": [
+      {
+        "text": "Finally",
+        "start": 108.984
+      },
+      {
+        "text": "be",
+        "start": 109.934
+      },
+      {
+        "text": "completion",
+        "start": 110.249
+      }
+    ]
+  },
+  {
+    "start": 110.405,
+    "display_end": 112.198,
+    "text": "Though you have left",
+    "words": [
+      {
+        "text": "Though",
+        "start": 110.405
+      },
+      {
+        "text": "you",
+        "start": 110.982
+      },
+      {
+        "text": "have",
+        "start": 111.599
+      },
+      {
+        "text": "left",
+        "start": 111.844
+      }
+    ]
+  },
+  {
+    "start": 112.198,
+    "display_end": 113.251,
+    "text": "You have left",
+    "words": [
+      {
+        "text": "You",
+        "start": 112.198
+      },
+      {
+        "text": "have",
+        "start": 112.525
+      },
+      {
+        "text": "left",
+        "start": 112.766
+      }
+    ]
+  },
+  {
+    "start": 113.251,
+    "display_end": 113.93,
+    "text": "You have left",
+    "words": [
+      {
+        "text": "You",
+        "start": 113.251
+      },
+      {
+        "text": "have",
+        "start": 113.412
+      },
+      {
+        "text": "left",
+        "start": 113.674
+      }
+    ]
+  },
+  {
+    "start": 113.93,
+    "display_end": 114.76,
+    "text": "You have left",
+    "words": [
+      {
+        "text": "You",
+        "start": 113.93
+      },
+      {
+        "text": "have",
+        "start": 114.337
+      },
+      {
+        "text": "left",
+        "start": 114.613
+      }
+    ]
+  },
+  {
+    "start": 114.76,
+    "display_end": 116.012,
+    "text": "You have left",
+    "words": [
+      {
+        "text": "You",
+        "start": 114.76
+      },
+      {
+        "text": "have",
+        "start": 115.179
+      },
+      {
+        "text": "left",
+        "start": 115.514
+      }
+    ]
+  },
+  {
+    "start": 116.012,
+    "display_end": 118.236,
+    "text": "You have left me in isolation",
+    "words": [
+      {
+        "text": "You",
+        "start": 116.012
+      },
+      {
+        "text": "have",
+        "start": 116.192
+      },
+      {
+        "text": "left",
+        "start": 116.532
+      },
+      {
+        "text": "me",
+        "start": 116.824
+      },
+      {
+        "text": "in",
+        "start": 117.154
+      },
+      {
+        "text": "isolation",
+        "start": 117.414
+      }
+    ]
+  },
+  {
+    "start": 118.236,
+    "display_end": 120.212,
+    "text": "If I can, if I can",
+    "words": [
+      {
+        "text": "If",
+        "start": 118.236
+      },
+      {
+        "text": "I",
+        "start": 118.64
+      },
+      {
+        "text": "can,",
+        "start": 118.985
+      },
+      {
+        "text": "if",
+        "start": 119.376
+      },
+      {
+        "text": "I",
+        "start": 119.56
+      },
+      {
+        "text": "can",
+        "start": 119.916
+      }
+    ]
+  },
+  {
+    "start": 120.212,
+    "display_end": 122.008,
+    "text": "Erase all the pointless fragments",
+    "words": [
+      {
+        "text": "Erase",
+        "start": 120.212
+      },
+      {
+        "text": "all",
+        "start": 120.683
+      },
+      {
+        "text": "the",
+        "start": 120.863
+      },
+      {
+        "text": "pointless",
+        "start": 121.061
+      },
+      {
+        "text": "fragments",
+        "start": 121.514
+      }
+    ]
+  },
+  {
+    "start": 122.008,
+    "display_end": 123.828,
+    "text": "Then maybe, then maybe",
+    "words": [
+      {
+        "text": "Then",
+        "start": 122.008
+      },
+      {
+        "text": "maybe,",
+        "start": 122.442
+      },
+      {
+        "text": "then",
+        "start": 123.001
+      },
+      {
+        "text": "maybe",
+        "start": 123.381
+      }
+    ]
+  },
+  {
+    "start": 123.828,
+    "display_end": 125.582,
+    "text": "You won't leave me so disheartened",
+    "words": [
+      {
+        "text": "You",
+        "start": 123.828
+      },
+      {
+        "text": "won't",
+        "start": 124.058
+      },
+      {
+        "text": "leave",
+        "start": 124.373
+      },
+      {
+        "text": "me",
+        "start": 124.558
+      },
+      {
+        "text": "so",
+        "start": 124.748
+      },
+      {
+        "text": "disheartened",
+        "start": 124.998
+      }
+    ]
+  },
+  {
+    "start": 125.582,
+    "display_end": 128.853,
+    "text": "Challenging your God",
+    "words": [
+      {
+        "text": "Challenging",
+        "start": 125.582
+      },
+      {
+        "text": "your",
+        "start": 127.123
+      },
+      {
+        "text": "God",
+        "start": 127.503
+      }
+    ]
+  },
+  {
+    "start": 128.87,
+    "display_end": 131.207,
+    "text": "You have made some",
+    "words": [
+      {
+        "text": "You",
+        "start": 128.87
+      },
+      {
+        "text": "have",
+        "start": 129.13
+      },
+      {
+        "text": "made",
+        "start": 129.399
+      },
+      {
+        "text": "some",
+        "start": 130.25
+      }
+    ]
+  },
+  {
+    "start": 131.207,
+    "display_end": 133.95,
+    "text": "Illegal arguments",
+    "words": [
+      {
+        "text": "Illegal",
+        "start": 131.207
+      },
+      {
+        "text": "arguments",
+        "start": 132.338
+      }
+    ]
+  },
+  {
+    "start": 147.891,
+    "display_end": 148.716,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 147.891
+      }
+    ]
+  },
+  {
+    "start": 148.716,
+    "display_end": 149.73,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 148.716
+      }
+    ]
+  },
+  {
+    "start": 149.73,
+    "display_end": 150.736,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 149.73
+      }
+    ]
+  },
+  {
+    "start": 150.736,
+    "display_end": 151.662,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 150.736
+      }
+    ]
+  },
+  {
+    "start": 151.662,
+    "display_end": 152.597,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 151.662
+      }
+    ]
+  },
+  {
+    "start": 152.597,
+    "display_end": 153.431,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 152.597
+      }
+    ]
+  },
+  {
+    "start": 153.431,
+    "display_end": 154.361,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 153.431
+      }
+    ]
+  },
+  {
+    "start": 154.361,
+    "display_end": 155.272,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 154.361
+      }
+    ]
+  },
+  {
+    "start": 155.272,
+    "display_end": 156.211,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 155.272
+      }
+    ]
+  },
+  {
+    "start": 156.211,
+    "display_end": 157.197,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 156.211
+      }
+    ]
+  },
+  {
+    "start": 157.197,
+    "display_end": 158.12,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 157.197
+      }
+    ]
+  },
+  {
+    "start": 158.12,
+    "display_end": 159.204,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 158.12
+      }
+    ]
+  },
+  {
+    "start": 159.204,
+    "display_end": 159.791,
+    "text": "Ein, dos",
+    "words": [
+      {
+        "text": "Ein,",
+        "start": 159.204
+      },
+      {
+        "text": "dos",
+        "start": 159.403
+      }
+    ]
+  },
+  {
+    "start": 159.791,
+    "display_end": 160.656,
+    "text": "Trios, ne",
+    "words": [
+      {
+        "text": "Trios,",
+        "start": 159.791
+      },
+      {
+        "text": "ne",
+        "start": 160.305
+      }
+    ]
+  },
+  {
+    "start": 160.656,
+    "display_end": 161.666,
+    "text": "Fem, liu",
+    "words": [
+      {
+        "text": "Fem,",
+        "start": 160.656
+      },
+      {
+        "text": "liu",
+        "start": 161.162
+      }
+    ]
+  },
+  {
+    "start": 161.666,
+    "display_end": 162.595,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 161.666
+      }
+    ]
+  },
+  {
+    "start": 162.595,
+    "display_end": 164.324,
+    "text": "If I can, if I can",
+    "words": [
+      {
+        "text": "If",
+        "start": 162.595
+      },
+      {
+        "text": "I",
+        "start": 163.062
+      },
+      {
+        "text": "can,",
+        "start": 163.131
+      },
+      {
+        "text": "if",
+        "start": 163.692
+      },
+      {
+        "text": "I",
+        "start": 163.902
+      },
+      {
+        "text": "can",
+        "start": 164.143
+      }
+    ]
+  },
+  {
+    "start": 164.324,
+    "display_end": 166.184,
+    "text": "Give them all the execution",
+    "words": [
+      {
+        "text": "Give",
+        "start": 164.324
+      },
+      {
+        "text": "them",
+        "start": 164.661
+      },
+      {
+        "text": "all",
+        "start": 164.981
+      },
+      {
+        "text": "the",
+        "start": 165.181
+      },
+      {
+        "text": "execution",
+        "start": 165.437
+      }
+    ]
+  },
+  {
+    "start": 166.184,
+    "display_end": 167.945,
+    "text": "Then I can, then I can",
+    "words": [
+      {
+        "text": "Then",
+        "start": 166.184
+      },
+      {
+        "text": "I",
+        "start": 166.69
+      },
+      {
+        "text": "can,",
+        "start": 166.996
+      },
+      {
+        "text": "then",
+        "start": 167.402
+      },
+      {
+        "text": "I",
+        "start": 167.63
+      },
+      {
+        "text": "can",
+        "start": 167.928
+      }
+    ]
+  },
+  {
+    "start": 167.945,
+    "display_end": 169.68,
+    "text": "Be your only execution",
+    "words": [
+      {
+        "text": "Be",
+        "start": 167.945
+      },
+      {
+        "text": "your",
+        "start": 168.181
+      },
+      {
+        "text": "only",
+        "start": 168.564
+      },
+      {
+        "text": "execution",
+        "start": 169.096
+      }
+    ]
+  },
+  {
+    "start": 169.68,
+    "display_end": 171.86,
+    "text": "If I can have you back",
+    "words": [
+      {
+        "text": "If",
+        "start": 169.68
+      },
+      {
+        "text": "I",
+        "start": 170.49
+      },
+      {
+        "text": "can",
+        "start": 170.517
+      },
+      {
+        "text": "have",
+        "start": 170.88
+      },
+      {
+        "text": "you",
+        "start": 171.381
+      },
+      {
+        "text": "back",
+        "start": 171.611
+      }
+    ]
+  },
+  {
+    "start": 171.86,
+    "display_end": 173.491,
+    "text": "I will run the execution",
+    "words": [
+      {
+        "text": "I",
+        "start": 171.86
+      },
+      {
+        "text": "will",
+        "start": 172.077
+      },
+      {
+        "text": "run",
+        "start": 172.296
+      },
+      {
+        "text": "the",
+        "start": 172.574
+      },
+      {
+        "text": "execution",
+        "start": 172.815
+      }
+    ]
+  },
+  {
+    "start": 173.491,
+    "display_end": 175.011,
+    "text": "Though we are trapped",
+    "words": [
+      {
+        "text": "Though",
+        "start": 173.491
+      },
+      {
+        "text": "we",
+        "start": 173.931
+      },
+      {
+        "text": "are",
+        "start": 174.231
+      },
+      {
+        "text": "trapped",
+        "start": 174.572
+      }
+    ]
+  },
+  {
+    "start": 175.011,
+    "display_end": 177.442,
+    "text": "We are trapped, ah",
+    "words": [
+      {
+        "text": "We",
+        "start": 175.011
+      },
+      {
+        "text": "are",
+        "start": 175.351
+      },
+      {
+        "text": "trapped,",
+        "start": 175.521
+      },
+      {
+        "text": "ah",
+        "start": 176.417
+      }
+    ]
+  },
+  {
+    "start": 177.442,
+    "display_end": 179.202,
+    "text": "I've studied, I've studied",
+    "words": [
+      {
+        "text": "I've",
+        "start": 177.442
+      },
+      {
+        "text": "studied,",
+        "start": 177.807
+      },
+      {
+        "text": "I've",
+        "start": 178.468
+      },
+      {
+        "text": "studied",
+        "start": 178.748
+      }
+    ]
+  },
+  {
+    "start": 179.202,
+    "display_end": 181.018,
+    "text": "How to properly lo-o-ove",
+    "words": [
+      {
+        "text": "How",
+        "start": 179.202
+      },
+      {
+        "text": "to",
+        "start": 179.454
+      },
+      {
+        "text": "properly",
+        "start": 179.692
+      },
+      {
+        "text": "lo-o-ove",
+        "start": 180.264
+      }
+    ]
+  },
+  {
+    "start": 181.018,
+    "display_end": 182.752,
+    "text": "Question me, question me",
+    "words": [
+      {
+        "text": "Question",
+        "start": 181.018
+      },
+      {
+        "text": "me,",
+        "start": 181.688
+      },
+      {
+        "text": "question",
+        "start": 181.975
+      },
+      {
+        "text": "me",
+        "start": 182.565
+      }
+    ]
+  },
+  {
+    "start": 182.752,
+    "display_end": 184.601,
+    "text": "I can answer all lo-o-ove",
+    "words": [
+      {
+        "text": "I",
+        "start": 182.752
+      },
+      {
+        "text": "can",
+        "start": 183.124
+      },
+      {
+        "text": "answer",
+        "start": 183.429
+      },
+      {
+        "text": "all",
+        "start": 183.877
+      },
+      {
+        "text": "lo-o-ove",
+        "start": 184.209
+      }
+    ]
+  },
+  {
+    "start": 184.601,
+    "display_end": 188.294,
+    "text": "I know the algebraic expression of lo-o-ove",
+    "words": [
+      {
+        "text": "I",
+        "start": 184.601
+      },
+      {
+        "text": "know",
+        "start": 184.856
+      },
+      {
+        "text": "the",
+        "start": 185.342
+      },
+      {
+        "text": "algebraic",
+        "start": 185.749
+      },
+      {
+        "text": "expression",
+        "start": 186.703
+      },
+      {
+        "text": "of",
+        "start": 187.424
+      },
+      {
+        "text": "lo-o-ove",
+        "start": 187.654
+      }
+    ]
+  },
+  {
+    "start": 188.294,
+    "display_end": 189.582,
+    "text": "Though you are free",
+    "words": [
+      {
+        "text": "Though",
+        "start": 188.294
+      },
+      {
+        "text": "you",
+        "start": 188.8
+      },
+      {
+        "text": "are",
+        "start": 189.194
+      },
+      {
+        "text": "free",
+        "start": 189.364
+      }
+    ]
+  },
+  {
+    "start": 189.582,
+    "display_end": 190.604,
+    "text": "I am trapped",
+    "words": [
+      {
+        "text": "I",
+        "start": 189.582
+      },
+      {
+        "text": "am",
+        "start": 190.017
+      },
+      {
+        "text": "trapped",
+        "start": 190.299
+      }
+    ]
+  },
+  {
+    "start": 190.604,
+    "display_end": 192.375,
+    "text": "Trapped in lo-o-ove",
+    "words": [
+      {
+        "text": "Trapped",
+        "start": 190.604
+      },
+      {
+        "text": "in",
+        "start": 191.252
+      },
+      {
+        "text": "lo-o-ove",
+        "start": 191.433
+      }
+    ]
+  },
+  {
+    "start": 205.372,
+    "display_end": 207.06,
+    "text": "Execution",
+    "words": [
+      {
+        "text": "Execution",
+        "start": 205.372
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+# 编译缓存
+__pycache__/
+*.py[cod]
+
+# 媒体文件：本仓库不含歌曲与成片，避免误传
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
